@@ -1,0 +1,1 @@
+Test file for verifying that a new text file can be created on the desktop after cloning this repository from GitHub.
